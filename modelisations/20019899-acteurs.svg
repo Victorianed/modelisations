@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="20019899-acteurs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70588719"
+     inkscape:cx="437.03867"
+     inkscape:cy="313.08119"
+     inkscape:window-width="1256"
+     inkscape:window-height="703"
+     inkscape:window-x="249"
+     inkscape:window-y="116"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="276.24811"
+       y="144.49901"
+       width="152.99895"
+       height="50.999651"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#f2cfb7;stroke-width:0.264583;fill-opacity:1"
+       id="path3"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="23.239077"
+       sodipodi:cy="26.987314"
+       sodipodi:r1="23.705938"
+       sodipodi:r2="19.178509"
+       sodipodi:arg1="2.176341"
+       sodipodi:arg2="2.8046595"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 9.7454198,46.478151 0.53241954,20.177084 22.699248,3.2875231 45.612101,19.150268 37.606195,45.843544 Z"
+       inkscape:transform-center-x="0.16681671"
+       inkscape:transform-center-y="-2.1044773"
+       transform="translate(67.843112,18.741191)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4"
+       style="fill:#f2cfb7;-inkscape-font-specification:Arial;font-family:Arial;font-size:16px;fill-opacity:1;white-space:pre;shape-inside:url(#rect4)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#f2cfb7;fill-opacity:1;stroke-width:0.264583"
+       x="86.959129"
+       y="44.604034"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="86.959129"
+         y="44.604034" /></text>
+  </g>
+</svg>
