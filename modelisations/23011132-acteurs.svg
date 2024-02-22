@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="false"
-     inkscape:zoom="0.39249999"
-     inkscape:cx="499.36308"
-     inkscape:cy="393.63059"
+     inkscape:zoom="3.1399999"
+     inkscape:cx="388.53505"
+     inkscape:cy="408.75798"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g9-5"
+     inkscape:current-layer="g16"
      showgrid="false" />
   <defs
      id="defs1">
@@ -182,16 +182,21 @@
        transform="translate(36.136589,10.747948)">
       <g
          id="g11"
-         transform="matrix(0.91840873,-0.00272274,0.00270893,0.91374919,-20.699906,2.8882111)">
+         transform="matrix(0.91841276,0,0,0.9137532,-21.078807,2.5289833)">
         <g
            id="g15"
            transform="rotate(-0.6259393,336.53429,1581.6753)">
           <text
              xml:space="preserve"
-             style="font-size:6.61458px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:0;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+             style="font-size:6.61458px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
              x="133.61133"
              y="72.496025"
-             id="text4" />
+             id="text4"><tspan
+               sodipodi:role="line"
+               id="tspan4"
+               style="stroke-width:0.370417"
+               x="133.61133"
+               y="72.496025">Expositions</tspan></text>
           <g
              id="g9-5"
              transform="translate(102.98949,22.988264)">
@@ -272,30 +277,6 @@
              inkscape:transform-center-x="-5.4284113e-06"
              transform="matrix(1.6650416,0,0,1.4105005,-60.194948,8.1400912)"
              inkscape:transform-center-y="2.7068921e-06" />
-          <text
-             xml:space="preserve"
-             style="font-size:9.24228px;line-height:0;font-family:'Microsoft Himalaya';-inkscape-font-specification:'Microsoft Himalaya';fill:#000000;stroke:#000000;stroke-width:0.40435;stroke-linecap:round;stroke-linejoin:bevel"
-             x="132.43843"
-             y="64.528679"
-             id="text3"
-             transform="matrix(0.99740052,0.01089674,-0.01095231,1.0024866,0,0)"><tspan
-               sodipodi:role="line"
-               id="tspan3"
-               style="stroke-width:0.40435"
-               x="132.43843"
-               y="64.528679">Personnel des</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:9.24228px;line-height:0;font-family:'Microsoft Himalaya';-inkscape-font-specification:'Microsoft Himalaya';fill:#000000;stroke:#000000;stroke-width:0.40435;stroke-linecap:round;stroke-linejoin:bevel"
-             x="135.38306"
-             y="72.623032"
-             id="text8"
-             transform="matrix(0.99740052,0.01089674,-0.01095231,1.0024866,0,0)"><tspan
-               sodipodi:role="line"
-               id="tspan4"
-               style="stroke-width:0.40435"
-               x="135.38306"
-               y="72.623032">expositions</tspan></text>
         </g>
       </g>
       <text
@@ -420,20 +401,97 @@
          inkscape:randomized="0"
          d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
          inkscape:transform-center-x="-1.6221994e-06"
-         transform="matrix(1.5290269,-0.02238063,0.01905586,1.2887099,-122.34802,60.017216)"
+         transform="matrix(1.5290269,-0.02238063,0.01905586,1.2887099,-122.87719,60.017216)"
          inkscape:transform-center-y="2.6161723e-06" />
       <text
          xml:space="preserve"
          style="font-size:9.72776px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.283726;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
-         x="50.480415"
-         y="102.87349"
+         x="52.658234"
+         y="116.7396"
          id="text2-4"
-         transform="scale(1.0078409,0.99222012)"><tspan
+         transform="scale(1.0078409,0.99222011)"><tspan
            sodipodi:role="line"
            id="tspan2-5"
            style="font-size:9.72776px;stroke:#000000;stroke-width:0.283726;stroke-opacity:1"
-           x="50.480415"
-           y="102.87349">Visiteurs</tspan></text>
+           x="52.658234"
+           y="116.7396">Visiteur</tspan></text>
+      <g
+         id="g10-1"
+         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,22.000636,49.727109)">
+        <g
+           id="g9-0"
+           transform="translate(5.1907417,24.176297)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+             x="20.086178"
+             y="25.047401"
+             id="text5-29"><tspan
+               sodipodi:role="line"
+               id="tspan5-6"
+               style="font-size:4.23333px;stroke-width:0.370417"
+               x="20.086178"
+               y="25.047401">Multilingue</tspan></text>
+          <path
+             sodipodi:type="star"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+             id="path8-9"
+             inkscape:flatsided="true"
+             sodipodi:sides="6"
+             sodipodi:cx="125.36133"
+             sodipodi:cy="32.174484"
+             sodipodi:r1="22.439709"
+             sodipodi:r2="19.433357"
+             sodipodi:arg1="0.53495507"
+             sodipodi:arg2="1.0585538"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
+             transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
+        </g>
+      </g>
+      <g
+         id="g8-2"
+         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,14.430749,70.746511)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           x="67.078621"
+           y="23.589018"
+           id="text6-4"><tspan
+             sodipodi:role="line"
+             id="tspan6-0"
+             style="font-size:4.23333px;stroke-width:0.370417"
+             x="67.078621"
+             y="23.589018" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           x="61.955818"
+           y="26.550632"
+           id="text7-3"><tspan
+             sodipodi:role="line"
+             id="tspan7-6"
+             style="font-size:4.23333px;stroke-width:0.370417"
+             x="61.955818"
+             y="26.550632">Francophone </tspan></text>
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           id="path8-20-36"
+           inkscape:flatsided="true"
+           sodipodi:sides="6"
+           sodipodi:cx="125.36133"
+           sodipodi:cy="32.174484"
+           sodipodi:r1="22.439709"
+           sodipodi:r2="19.433357"
+           sodipodi:arg1="0.53495507"
+           sodipodi:arg2="1.0585538"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
+           transform="matrix(0.72287029,0,0,0.61468505,-16.022445,5.6365242)" />
+      </g>
     </g>
     <text
        xml:space="preserve"
@@ -464,7 +522,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 89.850229,57.199085 -75.665487,43.827865 -75.788788,-43.614303 -0.1233,-87.442166 75.665487,-43.827865 75.788788,43.614302 z"
-       transform="matrix(0.89353372,0.00201821,-0.0016469,0.72914125,93.291335,69.441396)" />
+       transform="matrix(0.893536,0,0,0.72914311,93.26893,69.46975)" />
     <text
        xml:space="preserve"
        style="font-size:12.7px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
