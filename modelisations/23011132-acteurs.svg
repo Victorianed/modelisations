@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="false"
-     inkscape:zoom="3.1399999"
-     inkscape:cx="388.53505"
-     inkscape:cy="408.75798"
+     inkscape:zoom="1.1101576"
+     inkscape:cx="407.14939"
+     inkscape:cy="375.17195"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g16"
+     inkscape:current-layer="g9-0"
      showgrid="false" />
   <defs
      id="defs1">
@@ -181,88 +181,37 @@
        id="g16"
        transform="translate(36.136589,10.747948)">
       <g
-         id="g11"
-         transform="matrix(0.91841276,0,0,0.9137532,-21.078807,2.5289833)">
+         id="g15"
+         transform="matrix(0.91835795,-0.00998228,0.01003319,0.91369867,-36.929605,5.9746081)">
+        <text
+           xml:space="preserve"
+           style="font-size:6.61458px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           x="133.61133"
+           y="72.496025"
+           id="text4"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="stroke-width:0.370417"
+             x="133.61133"
+             y="72.496025">Expositions</tspan></text>
         <g
-           id="g15"
-           transform="rotate(-0.6259393,336.53429,1581.6753)">
+           id="g9-5"
+           transform="translate(102.98949,22.988264)">
           <text
              xml:space="preserve"
-             style="font-size:6.61458px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-             x="133.61133"
-             y="72.496025"
-             id="text4"><tspan
+             style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+             x="17.427299"
+             y="25.467268"
+             id="text5-2"><tspan
                sodipodi:role="line"
-               id="tspan4"
-               style="stroke-width:0.370417"
-               x="133.61133"
-               y="72.496025">Expositions</tspan></text>
-          <g
-             id="g9-5"
-             transform="translate(102.98949,22.988264)">
-            <text
-               xml:space="preserve"
-               style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+               id="tspan5-5"
+               style="font-size:4.23333px;stroke-width:0.370417"
                x="17.427299"
-               y="25.467268"
-               id="text5-2"><tspan
-                 sodipodi:role="line"
-                 id="tspan5-5"
-                 style="font-size:4.23333px;stroke-width:0.370417"
-                 x="17.427299"
-                 y="25.467268">Conservateur</tspan></text>
-            <path
-               sodipodi:type="star"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-               id="path8-1"
-               inkscape:flatsided="true"
-               sodipodi:sides="6"
-               sodipodi:cx="125.36133"
-               sodipodi:cy="32.174484"
-               sodipodi:r1="22.439709"
-               sodipodi:r2="19.433357"
-               sodipodi:arg1="0.53495507"
-               sodipodi:arg2="1.0585538"
-               inkscape:rounded="0"
-               inkscape:randomized="0"
-               d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-               transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
-          </g>
-          <g
-             id="g8-8"
-             transform="translate(89.218887,21.691601)">
-            <text
-               xml:space="preserve"
-               style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-               x="64.636391"
-               y="26.912313"
-               id="text6-0"><tspan
-                 sodipodi:role="line"
-                 id="tspan6-8"
-                 style="font-size:4.23333px;stroke-width:0.370417"
-                 x="64.636391"
-                 y="26.912313">Rédacteur </tspan></text>
-            <path
-               sodipodi:type="star"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-               id="path8-20-3"
-               inkscape:flatsided="true"
-               sodipodi:sides="6"
-               sodipodi:cx="125.36133"
-               sodipodi:cy="32.174484"
-               sodipodi:r1="22.439709"
-               sodipodi:r2="19.433357"
-               sodipodi:arg1="0.53495507"
-               sodipodi:arg2="1.0585538"
-               inkscape:rounded="0"
-               inkscape:randomized="0"
-               d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-               transform="matrix(0.72287029,0,0,0.61468505,-16.022445,5.6365242)" />
-          </g>
+               y="25.467268">Conservateur</tspan></text>
           <path
              sodipodi:type="star"
              style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-             id="path8-8-8"
+             id="path8-1"
              inkscape:flatsided="true"
              sodipodi:sides="6"
              sodipodi:cx="125.36133"
@@ -274,10 +223,57 @@
              inkscape:rounded="0"
              inkscape:randomized="0"
              d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-             inkscape:transform-center-x="-5.4284113e-06"
-             transform="matrix(1.6650416,0,0,1.4105005,-60.194948,8.1400912)"
-             inkscape:transform-center-y="2.7068921e-06" />
+             transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
         </g>
+        <g
+           id="g8-8"
+           transform="translate(89.218887,21.691601)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+             x="64.636391"
+             y="26.912313"
+             id="text6-0"><tspan
+               sodipodi:role="line"
+               id="tspan6-8"
+               style="font-size:4.23333px;stroke-width:0.370417"
+               x="64.636391"
+               y="26.912313">Rédacteur </tspan></text>
+          <path
+             sodipodi:type="star"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+             id="path8-20-3"
+             inkscape:flatsided="true"
+             sodipodi:sides="6"
+             sodipodi:cx="125.36133"
+             sodipodi:cy="32.174484"
+             sodipodi:r1="22.439709"
+             sodipodi:r2="19.433357"
+             sodipodi:arg1="0.53495507"
+             sodipodi:arg2="1.0585538"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
+             transform="matrix(0.72287029,0,0,0.61468505,-16.022445,5.6365242)" />
+        </g>
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           id="path8-8-8"
+           inkscape:flatsided="true"
+           sodipodi:sides="6"
+           sodipodi:cx="125.36133"
+           sodipodi:cy="32.174484"
+           sodipodi:r1="22.439709"
+           sodipodi:r2="19.433357"
+           sodipodi:arg1="0.53495507"
+           sodipodi:arg2="1.0585538"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
+           inkscape:transform-center-x="-5.4284113e-06"
+           transform="matrix(1.6650416,0,0,1.4105005,-60.194948,8.1400912)"
+           inkscape:transform-center-y="2.7068921e-06" />
       </g>
       <text
          xml:space="preserve"
@@ -292,69 +288,23 @@
            x="19.682848"
            y="70.858833">Administration</tspan></text>
       <g
-         id="g10"
-         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,-7.9431663,6.504557)">
-        <g
-           id="g9"
-           transform="translate(5.1907417,24.176297)">
-          <text
-             xml:space="preserve"
-             style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+         id="g9"
+         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,-2.8498266,28.523564)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           x="21.489065"
+           y="25.442463"
+           id="text5"><tspan
+             sodipodi:role="line"
+             id="tspan5"
+             style="font-size:4.23333px;stroke-width:0.370417"
              x="21.489065"
-             y="25.442463"
-             id="text5"><tspan
-               sodipodi:role="line"
-               id="tspan5"
-               style="font-size:4.23333px;stroke-width:0.370417"
-               x="21.489065"
-               y="25.442463">Directeur</tspan></text>
-          <path
-             sodipodi:type="star"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-             id="path8"
-             inkscape:flatsided="true"
-             sodipodi:sides="6"
-             sodipodi:cx="125.36133"
-             sodipodi:cy="32.174484"
-             sodipodi:r1="22.439709"
-             sodipodi:r2="19.433357"
-             sodipodi:arg1="0.53495507"
-             sodipodi:arg2="1.0585538"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-             transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
-        </g>
-      </g>
-      <g
-         id="g8"
-         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,-15.513049,27.523959)">
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-           x="67.078621"
-           y="23.589018"
-           id="text6"><tspan
-             sodipodi:role="line"
-             id="tspan6"
-             style="font-size:4.23333px;stroke-width:0.370417"
-             x="67.078621"
-             y="23.589018">Chef de </tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-           x="70.360069"
-           y="29.429459"
-           id="text7"><tspan
-             sodipodi:role="line"
-             id="tspan7"
-             style="font-size:4.23333px;stroke-width:0.370417"
-             x="70.360069"
-             y="29.429459">projet</tspan></text>
+             y="25.442463">Directeur</tspan></text>
         <path
            sodipodi:type="star"
            style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-           id="path8-20"
+           id="path8"
            inkscape:flatsided="true"
            sodipodi:sides="6"
            sodipodi:cx="125.36133"
@@ -366,8 +316,48 @@
            inkscape:rounded="0"
            inkscape:randomized="0"
            d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-           transform="matrix(0.72287029,0,0,0.61468505,-16.022445,5.6365242)" />
+           transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.87806px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.339331;stroke-linecap:round;stroke-linejoin:bevel"
+         x="45.571419"
+         y="48.97282"
+         id="text6"
+         transform="matrix(1.0024369,-0.01467284,0.01474764,0.99735312,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-size:3.87806px;stroke-width:0.339331"
+           x="45.571419"
+           y="48.97282">Chef de </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.87806px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.339331;stroke-linecap:round;stroke-linejoin:bevel"
+         x="48.577488"
+         y="54.323124"
+         id="text7"
+         transform="matrix(1.0024369,-0.01467284,0.01474764,0.99735312,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-size:3.87806px;stroke-width:0.339331"
+           x="48.577488"
+           y="54.323124">projet</tspan></text>
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path8-20"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="125.36133"
+         sodipodi:cy="32.174484"
+         sodipodi:r1="22.439709"
+         sodipodi:r2="19.433357"
+         sodipodi:arg1="0.53495507"
+         sodipodi:arg2="1.0585538"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
+         transform="matrix(0.66382011,-0.00971645,0.0083044,0.56160966,-30.150495,32.889159)" />
       <path
          sodipodi:type="star"
          style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
@@ -416,69 +406,23 @@
            x="52.658234"
            y="116.7396">Visiteur</tspan></text>
       <g
-         id="g10-1"
-         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,22.000636,49.727109)">
-        <g
-           id="g9-0"
-           transform="translate(5.1907417,24.176297)">
-          <text
-             xml:space="preserve"
-             style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+         id="g9-0"
+         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,27.093976,71.746116)">
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+           x="20.086178"
+           y="25.047401"
+           id="text5-29"><tspan
+             sodipodi:role="line"
+             id="tspan5-6"
+             style="font-size:4.23333px;stroke-width:0.370417"
              x="20.086178"
-             y="25.047401"
-             id="text5-29"><tspan
-               sodipodi:role="line"
-               id="tspan5-6"
-               style="font-size:4.23333px;stroke-width:0.370417"
-               x="20.086178"
-               y="25.047401">Multilingue</tspan></text>
-          <path
-             sodipodi:type="star"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-             id="path8-9"
-             inkscape:flatsided="true"
-             sodipodi:sides="6"
-             sodipodi:cx="125.36133"
-             sodipodi:cy="32.174484"
-             sodipodi:r1="22.439709"
-             sodipodi:r2="19.433357"
-             sodipodi:arg1="0.53495507"
-             sodipodi:arg2="1.0585538"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-             transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
-        </g>
-      </g>
-      <g
-         id="g8-2"
-         transform="matrix(0.91831152,-0.01344148,0.01351,0.91365433,14.430749,70.746511)">
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-           x="67.078621"
-           y="23.589018"
-           id="text6-4"><tspan
-             sodipodi:role="line"
-             id="tspan6-0"
-             style="font-size:4.23333px;stroke-width:0.370417"
-             x="67.078621"
-             y="23.589018" /></text>
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-           x="61.955818"
-           y="26.550632"
-           id="text7-3"><tspan
-             sodipodi:role="line"
-             id="tspan7-6"
-             style="font-size:4.23333px;stroke-width:0.370417"
-             x="61.955818"
-             y="26.550632">Francophone </tspan></text>
+             y="25.047401">Multilingue</tspan></text>
         <path
            sodipodi:type="star"
            style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
-           id="path8-20-36"
+           id="path8-9"
            inkscape:flatsided="true"
            sodipodi:sides="6"
            sodipodi:cx="125.36133"
@@ -490,8 +434,48 @@
            inkscape:rounded="0"
            inkscape:randomized="0"
            d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
-           transform="matrix(0.72287029,0,0,0.61468505,-16.022445,5.6365242)" />
+           transform="matrix(0.72287029,0,0,0.61468505,-60.35213,4.1749414)" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.87806px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.339331;stroke-linecap:round;stroke-linejoin:bevel"
+         x="74.798531"
+         y="92.740059"
+         id="text6-4"
+         transform="matrix(1.0024369,-0.01467284,0.01474764,0.99735312,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6-0"
+           style="font-size:3.87806px;stroke-width:0.339331"
+           x="74.798531"
+           y="92.740059" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.87806px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:#000000;stroke-width:0.339331;stroke-linecap:round;stroke-linejoin:bevel"
+         x="70.105637"
+         y="95.453133"
+         id="text7-3"
+         transform="matrix(1.0024369,-0.01467284,0.01474764,0.99735312,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan7-6"
+           style="font-size:3.87806px;stroke-width:0.339331"
+           x="70.105637"
+           y="95.453133">Francophone </tspan></text>
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.370417;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path8-20-36"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="125.36133"
+         sodipodi:cy="32.174484"
+         sodipodi:r1="22.439709"
+         sodipodi:r2="19.433357"
+         sodipodi:arg1="0.53495507"
+         sodipodi:arg2="1.0585538"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 144.66602,43.614301 125.1065,54.612746 105.80181,43.172929 106.05664,20.734667 125.61615,9.7362225 144.92085,21.17604 Z"
+         transform="matrix(0.66382011,-0.00971645,0.0083044,0.56160966,-0.20669738,76.111711)" />
     </g>
     <text
        xml:space="preserve"
